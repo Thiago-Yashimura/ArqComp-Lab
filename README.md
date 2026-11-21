@@ -2,7 +2,7 @@
 
 Jogo no navegador para treinar os termos de Arquitetura Computacional, feito em HTML, CSS e JavaScript puros.
 
-**Site publicado:** https://SEU-USUARIO.github.io/arqcomp-cruzadinha/
+**Site publicado:** [(https://thiago-yashimura.github.io/ArqComp-Lab/)](https://thiago-yashimura.github.io/ArqComp-Lab/)
 
 ## Como jogar
 
